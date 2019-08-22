@@ -1,0 +1,7 @@
+D:\CPlusPlus\UECPP\Section6\BuildingEscapeV2\BuildingEscapeV2\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeV2\Definitions.BuildingEscapeV2.h
+d:\cplusplus\uecpp\section6\buildingescapev2\buildingescapev2\source\buildingescapev2\BuildingEscapeV2GameModeBase.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\CPlusPlus\UECPP\Section6\BuildingEscapeV2\BuildingEscapeV2\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscapeV2\BuildingEscapeV2GameModeBase.generated.h
